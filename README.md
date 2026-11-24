@@ -10,7 +10,7 @@ I’m interested in embedded systems, sensor data pipelines, and applied machine
 
 ## Projects
 
-### HERO Smart Care Mat · Team iTurtle
+### HERO Smart Care Mat · iTurtle Lab
 **2026 · Team project**
 
 A pressure-sensing mat prototype designed to help caregivers notice sustained pressure and review alerts in a mobile app. My role focused on the pressure-sensor matrix, microcontroller data acquisition, and firmware. The team’s system connects an ESP32-based sensing device to the app through MQTT and a backend service.
